@@ -1,0 +1,10 @@
+﻿Build started 30/07/2015 16:36:24.
+     1>Project "C:\Users\Sam\Google Drive\University\Object Oriented Programming - CMP2090M\Resit\AssignmentOneResit\AssignmentOneResit\AssignmentOneResit.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sam\Google Drive\University\Object Oriented Programming - CMP2090M\Resit\AssignmentOneResit\Debug\AssignmentOneResit.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sam\Google Drive\University\Object Oriented Programming - CMP2090M\Resit\AssignmentOneResit\Debug\AssignmentOneResit.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sam\Google Drive\University\Object Oriented Programming - CMP2090M\Resit\AssignmentOneResit\Debug\AssignmentOneResit.lib" /MACHINE:X86 Debug\shuffledImageTaskOne.obj
+         AssignmentOneResit.vcxproj -> C:\Users\Sam\Google Drive\University\Object Oriented Programming - CMP2090M\Resit\AssignmentOneResit\Debug\AssignmentOneResit.exe
+     1>Done Building Project "C:\Users\Sam\Google Drive\University\Object Oriented Programming - CMP2090M\Resit\AssignmentOneResit\AssignmentOneResit\AssignmentOneResit.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.47
